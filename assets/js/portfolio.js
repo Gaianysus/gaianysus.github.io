@@ -8,7 +8,7 @@ var sleep = function(ms, callback) {
             callback()
         }, ms)
     },
-    favthings = ["Debian Linux", "Gentoo Linux","Arch Linux", "Ubuntu Linux", "Linux Mint", "golang", "bash scripting", "python", "javascript", "Big Data", "DataViz", "docker", "packer", "octohost", "jekyll", "git", "vim", "inkscape", "ardour", "qtractor", "kxstudio", "rosegarden", "zynaddsubfx", "photography", "talking shop", "3D printers", "Drones", "Arduino", "RaspberryPi", "ARM processors", "Atmel ATmega processors", "Clustering", "Virtualization"],
+    favthings = ["Amazing PAR values", "Growroom Automation", "Tailored Nutrient Blends"],
     removeClass = function(el, className) {
         el.classList ? el.classList.remove(className) : el.className = el.className.replace(new RegExp("(^|\\b)" + className.split(" ").join("|") + "(\\b|$)", "gi"), " ")
     },
@@ -21,7 +21,7 @@ var sleep = function(ms, callback) {
             thing.innerHTML = favthings[i], removeClass(thing, "fadeOutRightBig"), addClass(thing, "fadeInLeftBig")
         })
     };
-    titlethings = ["Hardware Hacker", "Console Cowboy", "Serial Samurai", "Parallel Prognosticator", "Diabolical Diagnostician", "Embedded Systems Engineer", "Wetware Whisperer", "Meta Mercenary", "Neural-Network Ninja", "SysAdmin", "Linux Geek", "Techromancer"],
+    titlethings = ["Amazing PAR values", "Growroom Automation", "Tailored Nutrient Blends"],
     removeTitleClass = function(el, className) {
         el.classList ? el.classList.remove(className) : el.className = el.className.replace(new RegExp("(^|\\b)" + className.split(" ").join("|") + "(\\b|$)", "gi"), " ")
     },

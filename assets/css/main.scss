@@ -43,6 +43,12 @@
   $linkcolor: #33ff33;
   $bgcolor: rgba(42, 0, 42, 0.7);
   $bgcolor-2: rgba(14, 0, 14, 0.5);
+{% elsif site.mytheme == "gaianysus" %}
+  $color: #dedede;
+  $color-2: #bababa;
+  $linkcolor: #ffffff;
+  $bgcolor: rgba(42, 42, 42, 0.7);
+  $bgcolor-2: rgba(14, 14, 14, 0.5);
 {% else %}
   $color: #6690b9;
   $color-2: #dd9d71;
