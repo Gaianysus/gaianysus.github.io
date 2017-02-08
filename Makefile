@@ -14,8 +14,11 @@ help:
 	@echo ""   1. make serve       - serve jekyll blog
 	@echo ""   2. make drafts       - serve jekyll blog with drafts
 
-serve:
+serve: port
 	jekyll serve -P`cat port`
 
-drafts:
+drafts: port
 	jekyll serve --drafts -P`cat port`
+
+port:
+	echo 4002 > port
