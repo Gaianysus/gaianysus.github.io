@@ -10,7 +10,6 @@
       <meta name="robots" content="noindex, nofollow">
     {% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta property="fb:app_id"       content="978128892233940" />
     <meta name="description" content="{% if site.summary %}{{ site.summary | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description | strip_html | strip_newlines | truncate: 160 }}{% endif %}">
     <link rel="shortcut icon" href="favicon.ico">
     <link href='https://fonts.googleapis.com/css?family=Lato:300,400,300italic,400italic' rel='stylesheet' type='text/css'>
@@ -32,4 +31,8 @@
     <script>window.initFuncs = [];</script>
     <script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
     <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+    <script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
+    {% comment %}{% include masonry.html %}{% endcomment %}
+    {% comment %}{% include isotope.html %}{% endcomment %}
+    <script src="/assets/js/isotope-gaia.js"></script>
 </head>
