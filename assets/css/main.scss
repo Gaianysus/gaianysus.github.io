@@ -44,9 +44,9 @@
   $bgcolor: rgba(42, 0, 42, 0.7);
   $bgcolor-2: rgba(14, 0, 14, 0.5);
 {% elsif site.mytheme == "gaianysus" %}
-  $color: #dedede;
-  $color-2: #bababa;
-  $linkcolor: #ffffff;
+  $color: #de00fe;
+  $color-2: #6a00ff;
+  $linkcolor: #ff00ff;
   $bgcolor: rgba(42, 42, 42, 0.7);
   $bgcolor-2: rgba(14, 14, 14, 0.5);
 {% else %}
