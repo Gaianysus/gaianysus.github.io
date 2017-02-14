@@ -637,3 +637,11 @@ body {
   top: 115px;
   text-align: center;
 }
+
+th, td, table {
+  background: $bgcolor;
+  color: $color;
+  padding: 10px;
+  border: 10px solid #030023;
+  text-align: left;
+}
