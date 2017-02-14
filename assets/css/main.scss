@@ -275,7 +275,7 @@ div.content.photo-post {
     margin-top:0;
   }
   div.content.photo-post p, div.content.photo-post iframe {
-    padding: 10px 0 30px 0;
+    padding: 20px 15px 30px 15px;
     margin:0;
   }
 /*div.content.photo-post {
@@ -644,4 +644,9 @@ th, td, table {
   padding: 10px;
   border: 10px solid #030023;
   text-align: left;
+}
+
+.wideimg {
+  max-width: 100%;
+  height: auto;
 }
