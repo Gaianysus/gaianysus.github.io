@@ -1,9 +1,9 @@
 ---
+layout: post
 title: Acid Knee Bloomenthal
 published: true
-layout: post
-disqus: no
-fbcomments: no
+disqus: false
+fbcomments: false
 category: blog
 tags:
   - fertilizer
