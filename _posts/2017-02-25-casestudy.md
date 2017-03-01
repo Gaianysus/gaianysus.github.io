@@ -14,7 +14,6 @@ This is the case study showing a full setup
 
 ![](/img/growroom.jpg)
 
-
 <table>
   <tr>
     <th>Light</th>
@@ -52,3 +51,5 @@ This is the case study showing a full setup
     <td>13.25</td>
   </tr>
 </table>
+
+![](/img/overheadshot.png)
