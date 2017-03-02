@@ -54,4 +54,4 @@ This is the case study showing a full setup
 
 <img src="/img/overheadshot.png" width="850" alt="Overhead Shot">
 
-<img src="/img/overheadshot-ortho.png" width="850" alt="Overhead Shot">
+<img src="/img/overheadshot_ortho.png" width="850" alt="Overhead Shot">
