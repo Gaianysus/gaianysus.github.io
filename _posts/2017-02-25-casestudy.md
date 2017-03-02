@@ -52,6 +52,7 @@ This is the case study showing a full setup
   </tr>
 </table>
 
+
 <img src="/img/overheadshot.png" width="850" alt="Overhead Shot">
 
 <img src="/img/containershot.png" width="850" alt="Container Shot">
