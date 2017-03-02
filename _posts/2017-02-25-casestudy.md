@@ -55,3 +55,7 @@ This is the case study showing a full setup
 <img src="/img/overheadshot.png" width="850" alt="Overhead Shot">
 
 <img src="/img/overheadshot_ortho.png" width="850" alt="Overhead Shot">
+
+<img src="/img/containershot.png" width="850" alt="Overhead Shot">
+<img src="/img/containershotangle.png" width="850" alt="Overhead Shot">
+<img src="/img/containershotout.png" width="850" alt="Overhead Shot">
