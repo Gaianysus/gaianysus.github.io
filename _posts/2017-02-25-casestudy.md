@@ -52,4 +52,4 @@ This is the case study showing a full setup
   </tr>
 </table>
 
-![](/img/overheadshot.png)
+<img src="/img/overheadshot.png" width="850" alt="Overhead Shot">

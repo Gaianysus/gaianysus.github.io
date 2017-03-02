@@ -5,7 +5,7 @@ layout: post
 disqus: yes
 fbcomments: no
 category: blog
-tags: 
+tags:
   - linux
 photo_url: /img/thumbs/redbud.jpg
 ---
