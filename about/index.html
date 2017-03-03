@@ -24,7 +24,7 @@ title_hidden: True
       <div class="col-sm-5 text-left text-left-sm">
         <p>Sign up to receive updates, progress reports and ways to get involved. We're excited to have you join our amazing community!</p>
         {% if site.tinyletter_username %}
-        <p><em>No spam. Just the occasional update with tech tedbits and possibly a sale.</em></p>
+        <p><em>No spam. Just the occasional update with tech tidbits and possibly a sale.</em></p>
         <div class="row">
           <div class="col-sm-12">
             <form class="form-inline" role="form" action="https://tinyletter.com/{{ site.tinyletter_username }}" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/{{ site.tinyletter_username }}', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true">
@@ -95,7 +95,7 @@ title_hidden: True
         {% if site.org_street_address %}{{ site.org_street_address }},&nbsp;{% endif %}{% if site.org_address_suite %}{{ site.org_address_suite }}<br>{% endif %}
         {% if site.org_city %}{{ site.org_city }},&nbsp;{% endif %}{% if site.org_state %}{{ site.org_state }}&nbsp;{% endif %}{% if site.org_zip %}{{ site.org_zip }}{% endif %}<br>
         {% if site.org_phone %}
-        <abbr title="Phone">P:</abbr> {{ site.org_phone }}
+        <abbr title="Phone"></abbr> {{ site.org_phone }}
         {% endif %}
       </address>
       <div class="clearfix"></div>
