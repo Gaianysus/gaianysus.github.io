@@ -11,7 +11,7 @@ type: fertilizer
 npk: 747
 price: 99.99
 photo_url: /img/thumbs/rootsnshoots.png
-permalink: /rootsnshoots/
+permalink: /RootsNShoots/
 ---
 
 <img src="/img/bigfoot.jpg" width="850" alt="Overhead Shot">
