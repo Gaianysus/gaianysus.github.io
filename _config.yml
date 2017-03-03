@@ -37,9 +37,9 @@ org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
 
 #SOCIAL MEDIA
 github_username: gaianysus
-twitter_username: gaianysus
-facebook_username: gaianysus
-org_instagram_username: gaianysus
+#twitter_username: gaianysus
+#facebook_username: gaianysus
+#org_instagram_username: gaianysus
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section

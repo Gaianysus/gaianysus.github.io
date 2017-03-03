@@ -52,8 +52,6 @@ This is the case study showing a full setup
   </tr>
 </table>
 
-<img src="/img/bigfoot.jpg" width="850" alt="Overhead Shot">
-
 #  Chocolope Story
 
   I bagged up a half pound each of chocolope grown under a tesla light
@@ -65,6 +63,29 @@ This is the case study showing a full setup
   half pound grown under the Gaia 8.
 
   -- "Fuzzy" grow master
+
+<img src="/img/purproom.jpg" width="850" alt="Overhead Shot">
+
+## Hotspots
+
+Hotspots can be an issue burning leaves and causing flowers to poorly
+develop the next picture shows a Infra Red picture of an HID light
+showing a higher operating temperature and hotspots on the leave
+exceeding 98 degrees
+
+<img src="/img/flir-hotspot.jpg" width="850" alt="Overhead Shot">
+
+This next picture shows a happy plant underneath the Gaia 8 with a
+maximum temperature 6 degrees cooler.  These two plants are in the same
+room but just under their respective lights.
+
+<img src="/img/flir-gaia8.jpg" width="850" alt="Overhead Shot">
+
+<img src="/img/flir-gaia81.jpg" width="850" alt="Overhead Shot">
+
+And here you can see that the light itself operates at about 111 degrees
+
+<img src="/img/flir-light.jpg" width="850" alt="Overhead Shot">
 
 <img src="/img/budcomparison.jpg" width="850" alt="Overhead Shot">
 
