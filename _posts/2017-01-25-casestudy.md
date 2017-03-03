@@ -1,7 +1,7 @@
 ---
 title: Case Study
 published: true
-layout: post
+layout: gaia
 disqus: yes
 fbcomments: no
 category: grow

@@ -1,7 +1,7 @@
 ---
 title: Emission Spectrums
 published: true
-layout: post
+layout: gaia
 disqus: yes
 fbcomments: no
 category: blog

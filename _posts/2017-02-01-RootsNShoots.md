@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gaia
 title: Roots & Shoots
 published: true
 disqus: false
