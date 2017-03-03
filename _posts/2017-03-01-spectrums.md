@@ -39,9 +39,8 @@ of this and get a much denser and healthier plant.
 
 ![](/img/yellowbud-900.jpg)
 
-This is your conventional spectrum.  Much of the light is reflected off
-the plant and not even used for photosynthesis.  This leads to wasted
-electrical power and poor plant growth.
+This is your conventional spectrum.  This is a much broader spectrum and
+gives the plant all frequencies at once 
 
 {% raw  %}
 {% endraw  %}
