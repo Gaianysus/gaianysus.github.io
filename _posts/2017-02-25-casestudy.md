@@ -12,7 +12,7 @@ photo_url: /img/thumbs/growroom.jpg
 
 This is the case study showing a full setup
 
-![](/img/growroom.jpg)
+<img src="/img/banannarama.jpg" width="850" alt="Overhead Shot">
 
 <table>
   <tr>
@@ -52,6 +52,23 @@ This is the case study showing a full setup
   </tr>
 </table>
 
+<img src="/img/bigfoot.jpg" width="850" alt="Overhead Shot">
+
+#  Chocolope Story
+
+  I bagged up a half pound each of chocolope grown under a tesla light
+  and a half pound under the Gaia 8.  And I took it to a connoisseur
+  and asked him which would you like?
+
+  He said "the one grown under the Gaia 8 had better fragrance, better
+  sparkle, and the buds felt more dense" needless to say he took the
+  half pound grown under the Gaia 8.
+
+  -- "Fuzzy" grow master
+
+<img src="/img/budcomparison.jpg" width="850" alt="Overhead Shot">
+
+<img src="/img/handgrenadebud.jpg" width="850" alt="Overhead Shot">
 
 <img src="/img/overheadshot.png" width="850" alt="Overhead Shot">
 
