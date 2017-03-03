@@ -54,9 +54,9 @@ This is the case study showing a full setup
 
 #  Chocolope Story
 
-  I bagged up a half pound each of chocolope grown under a tesla light
+  "I bagged up a half pound each of chocolope grown under a tesla light
   and a half pound under the Gaia 8.  And I took it to a connoisseur
-  and asked him which would you like?
+  and asked him which would you like?"
 
   He said "the one grown under the Gaia 8 had better fragrance, better
   sparkle, and the buds felt more dense" needless to say he took the
@@ -69,7 +69,7 @@ This is the case study showing a full setup
 ## Hotspots
 
 Hotspots can be an issue burning leaves and causing flowers to poorly
-develop the next picture shows a Infra Red picture of an HID light
+develop. The next picture shows a Infra Red picture of an HID light
 showing a higher operating temperature and hotspots on the leave
 exceeding 98 degrees
 
