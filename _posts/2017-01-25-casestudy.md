@@ -8,6 +8,7 @@ category: grow
 tags:
   - growroom
 photo_url: /img/thumbs/growroom.png
+permalink: /case-study/
 ---
 
 This is the case study showing a full setup

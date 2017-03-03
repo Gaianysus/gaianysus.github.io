@@ -8,6 +8,7 @@ category: blog
 tags:
   - linux
 photo_url: /img/thumbs/tribud.png
+permalink: /spectrum/
 ---
 
 ## Blue vs. Red

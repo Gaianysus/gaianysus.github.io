@@ -4,13 +4,14 @@ title: Roots & Shoots
 published: true
 disqus: false
 fbcomments: false
-category: blog
+category: fertilizer
 tags:
   - fertilizer
 type: fertilizer
 npk: 747
 price: 99.99
 photo_url: /img/thumbs/rootsnshoots.png
+permalink: /rootsnshoots/
 ---
 
 <img src="/img/bigfoot.jpg" width="850" alt="Overhead Shot">
