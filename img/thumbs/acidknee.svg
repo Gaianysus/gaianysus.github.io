@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.166666mm"
+   height="21.166666mm"
+   viewBox="0 0 21.166666 21.166666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="acidknee.svg"
+   inkscape:export-filename="/mnt/unreal/git/gaianysus.github.io/img/thumbs/acidknee.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4519"
+       inkscape:collect="always">
+      <stop
+         id="stop4517"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0.49309498"
+         id="stop4515" />
+      <stop
+         id="stop4513"
+         offset="1"
+         style="stop-color:#ffff00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4577">
+      <stop
+         id="stop4575"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0.50690502"
+         id="stop4705" />
+      <stop
+         id="stop4573"
+         offset="1"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4577"
+       id="linearGradient4579"
+       x1="4.2863619"
+       y1="3.1198517"
+       x2="10.709193"
+       y2="3.1198516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5884457,0,0,2.5884456,-10.473522,-3.1208151)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4577"
+       id="linearGradient4505"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.3079142,0,0,2.3079141,-3.7688325,4.1629045)"
+       x1="4.8716531"
+       y1="3.8412557"
+       x2="4.8716531"
+       y2="1.5616186" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4519"
+       id="linearGradient4511"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.003837,0,0,2.0038369,-7.2691294,6.8959151)"
+       x1="4.2863619"
+       y1="3.1198517"
+       x2="12.067163"
+       y2="3.1198516" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.7617088"
+     inkscape:cx="28.275919"
+     inkscape:cy="47.868998"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.232143,-244.83928)">
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:#000080;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4491"
+       width="21.111328"
+       height="21.111326"
+       x="61.259811"
+       y="244.83928" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="opacity:0.95">
+    <text
+       transform="scale(1.0564338,0.9465808)"
+       id="text4503"
+       y="13.102927"
+       x="5.8097649"
+       style="font-style:normal;font-weight:normal;font-size:24.42542267px;line-height:15.26588917px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4505);fill-opacity:1;stroke:#000080;stroke-width:0.23079142;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"
+       inkscape:export-xdpi="180"
+       inkscape:export-ydpi="180"><tspan
+         id="tspan4501"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.51344585px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4505);fill-opacity:1;stroke:#000080;stroke-width:0.23079142;stroke-miterlimit:4;stroke-dasharray:none"
+         y="13.102927"
+         x="5.8097649"
+         sodipodi:role="line">Knee</tspan></text>
+    <text
+       transform="scale(0.72845705,1.3727645)"
+       id="text4509"
+       y="14.658055"
+       x="1.0474473"
+       style="font-style:normal;font-weight:normal;font-size:21.20727158px;line-height:13.25454521px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4511);fill-opacity:1;stroke:#000080;stroke-width:0.20038369;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan4507"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.65527248px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4511);fill-opacity:1;stroke:#000080;stroke-width:0.20038369;stroke-miterlimit:4;stroke-dasharray:none"
+         y="14.658055"
+         x="1.0474473"
+         sodipodi:role="line">Blumenthal</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.39437866px;line-height:17.12148666px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4579);fill-opacity:1;stroke:#000080;stroke-width:0.25884455;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="0.26937214"
+       y="6.9058847"
+       id="text4571"
+       transform="scale(1.1898978,0.84040831)"><tspan
+         sodipodi:role="line"
+         x="0.26937214"
+         y="6.9058847"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.30516768px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4579);fill-opacity:1;stroke:#000080;stroke-width:0.25884455;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4495">Acid</tspan></text>
+  </g>
+</svg>
