@@ -13,10 +13,10 @@ author: Joshua Cox
 locale: eng-US
 
 disqus_id: gaianysusgithubio
-google_analytics_track_id: UA-69335315-1
+google_analytics_track_id: UA-93036769-1
 #REQUIRED
-org_site: gaianysus.github.io
-org_url: https://gaianysus.github.io
+org_site: gaianysus.com
+org_url: https://gaianysus.com
 org_name: Gaianysus
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
   Superior Cannabis Cultivation
@@ -36,10 +36,10 @@ org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (512) 441-5269
 
 #SOCIAL MEDIA
-github_username: gaianysus
-#twitter_username: gaianysus
-#facebook_username: gaianysus
-#org_instagram_username: gaianysus
+#github_username: gaianysus
+twitter_username: gaianysus
+facebook_username: gaianysus
+org_instagram_username: gaianysus
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
