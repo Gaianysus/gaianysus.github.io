@@ -64,6 +64,14 @@
 // Insert custom css below this line
 //
 
+button, input, select, optgroup {
+    background: $bgcolor;
+    color: $color;
+    background-color: $bgcolor;
+    border: 1px solid;
+    border-color: $bgcolor;
+}
+
 .full-width {
   margin: 0 -9999rem;
   padding: 0 9999rem;

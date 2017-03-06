@@ -25,6 +25,18 @@
           {% comment %}<li class="nav-item"><a href="/tags/">Tags</a></li>{% endcomment %}
           {% comment %}<li class="nav-item"><a href="/tags/">Information</a></li>{% endcomment %}
           <li class="nav-item"><a href="/about/#contact">Contact</a></li>
+          <li class= "nav-item">
+            <label for="themeswitcher">
+                   Choose theme
+                  </label>
+            <br />
+            <select id="themeswitcher" name="themeswitcher">
+              <optgroup label="ThemeSwitcher">
+                <option onclick="switch_style('main');return false;" value="1">Main</option>
+                <option onclick="switch_style('print');return false;" value="1">Print</option>
+              </optgroup>
+            </select>
+          </li>
         </ul><!--//nav-->
       </div><!--//navabr-collapse-->
     </nav><!--//main-nav-->
