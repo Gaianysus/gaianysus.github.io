@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Super Ferty 208
+title: Apollo Booster 747
 published: true
 disqus: false
 fbcomments: false
@@ -9,18 +9,12 @@ tags:
   - fertilizer
 type: fertilizer
 npk: 747
+n: 7
+p: 4
+k: 7
 price: 99.99
-photo_url: /img/thumbs/superferty.png
+photo_url: /img/thumbs/apollo.png
 ---
 
-# Super Ferty 208
 
 This stuff grows the dankiest stankiest tastiest stuff you've ever seen 
-
-Zeus Boost
-
-Apollo Booster
-
-
-
-  

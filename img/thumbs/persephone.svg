@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.166666mm"
+   height="21.166666mm"
+   viewBox="0 0 21.166666 21.166666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="persephone.svg"
+   inkscape:export-filename="/mnt/unreal/git/gaianysus.github.io/img/thumbs/persephone.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4501"
+       inkscape:collect="always">
+      <stop
+         id="stop4499"
+         offset="0"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0.49309498"
+         id="stop4497" />
+      <stop
+         id="stop4495"
+         offset="1"
+         style="stop-color:#ffff00;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4577">
+      <stop
+         id="stop4575"
+         offset="0"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0.50690502"
+         id="stop4705" />
+      <stop
+         id="stop4573"
+         offset="1"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4577"
+       id="linearGradient4579"
+       x1="4.2863619"
+       y1="3.1198517"
+       x2="17.645846"
+       y2="3.1198517"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1943785,0,0,2.1943785,-7.9001839,-2.6708383)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4501"
+       id="linearGradient4495"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.7540849,0,0,2.754085,-11.203448,9.3911578)"
+       x1="4.2863619"
+       y1="3.1198517"
+       x2="17.645846"
+       y2="3.1198517" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.7617088"
+     inkscape:cx="18.15286"
+     inkscape:cy="33.688209"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.232143,-244.83928)">
+    <image
+       sodipodi:absref="/home/thoth/git/gaianysus.github.io/img/thumbs/tribud.jpg"
+       y="244.83928"
+       x="61.232143"
+       id="image4565"
+       xlink:href="file:///home/thoth/git/gaianysus.github.io/img/thumbs/gaia-8.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="21.166666"
+       width="21.166666" />
+    <rect
+       style="fill:#800080;fill-opacity:1;stroke:none;stroke-width:0.79374999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.97530865;paint-order:markers stroke fill"
+       id="rect4500"
+       width="21.166666"
+       height="21.166666"
+       x="61.232143"
+       y="244.83928" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="opacity:0.95">
+    <text
+       transform="scale(1.0133729,0.98680358)"
+       id="text4493"
+       y="20.059484"
+       x="0.22690147"
+       style="font-style:normal;font-weight:normal;font-size:29.14739418px;line-height:18.21712112px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4495);fill-opacity:1;stroke:#000080;stroke-width:0.27540848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.7726388px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4495);fill-opacity:1;stroke:#000080;stroke-width:0.27540848;stroke-miterlimit:4;stroke-dasharray:none"
+         y="20.059484"
+         x="0.22690147"
+         id="tspan4491"
+         sodipodi:role="line">Bloom</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:23.22383499px;line-height:14.51489735px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4579);fill-opacity:1;stroke:#000080;stroke-width:0.21943784;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="1.2072024"
+       y="5.8293881"
+       id="text4571"
+       transform="scale(0.63950927,1.563699)"><tspan
+         sodipodi:role="line"
+         id="tspan4569"
+         x="1.2072024"
+         y="5.8293881"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19302273px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4579);fill-opacity:1;stroke:#000080;stroke-width:0.21943784;stroke-miterlimit:4;stroke-dasharray:none">Persephone</tspan></text>
+  </g>
+</svg>
