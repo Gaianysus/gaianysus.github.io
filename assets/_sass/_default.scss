@@ -584,7 +584,7 @@ pre code {
   color: $heart;
 }
 /* Extra small devices (phones, less than 768px) */
-@media only and screen (max-width: 767px) {
+@media (max-width: 767px) {
   .container .content {
     width: 100%;
   }
