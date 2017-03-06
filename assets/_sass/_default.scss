@@ -585,7 +585,7 @@ pre code {
 }
 /* Extra small devices (phones, less than 768px) */
 @media only and screen (max-width: 767px) {
-  .content {
+  .container .content {
     width: 100%;
   }
   img {
