@@ -584,9 +584,13 @@ pre code {
   color: $heart;
 }
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
-  .header .main-nav button {
-    margin-right: 0;
+@media only and screen (max-width: 767px) {
+  .content {
+    width: 100%;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
   }
   .header .main-nav .navbar-collapse {
     padding-left: 15px;
