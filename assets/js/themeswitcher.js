@@ -12,29 +12,10 @@ $(document).ready(function(){
     $(".hidden-div").css("display","block");
   });
 });
-$(document).ready(function(){
-  $("#mainTheme").on('click touchstart',function(){
-    switch_style('main');
-    return false;
-  });
-});
-$(document).ready(function(){
-  $("#printTheme").on('click touchstart',function(){
-    switch_style('print');
-    return false;
-  });
-});
-$(document).ready(function(){
-  $("#altTheme").on('click touchstart',function(){
-    switch_style('alt');
-    return false;
-  });
-});
-$(document).ready(function(){
-  $("#midniteTheme").on('click touchstart',function(){
-    switch_style('midnite');
-    return false;
-  });
+$('#themeswitcher').on('change', function() {
+  var thistheme = $('option:selected', this).attr('mytheme');
+  switch_style(thistheme);
+  return false;
 });
 
 function switch_style ( css_title )
