@@ -117,7 +117,7 @@ pre code {
   padding: 10px 0;
   background: $bgcolor-2;
   color: $color;
-  position: fixed;
+  position: relative;
   width: 100%;
 }
 .header.navbar-fixed-top {
@@ -145,8 +145,8 @@ pre code {
   text-decoration: none;
 }
 .header .main-nav button {
-  background: $bgcolor;
-  color: $color !important;
+  background: $color;
+  color: $color-2 !important;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   -ms-border-radius: 4px;
@@ -698,13 +698,23 @@ table {
   display: none;
 }
 
-.container .content {
-  width: 900px;
-  margin: 0 auto;
+.navbar-toggle {
+  color: $color;
+  background-color: $bgcolor;
 }
+
+#themeEvent {
+  background: $bgcolor;
+  color: $color;
+}
+
 
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
+  .container .content {
+    width: 100%;
+    margin: 0 auto;
+  }
   .grid .grid-item .container .content {
     width: 100%;
   }
@@ -759,4 +769,10 @@ table {
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
+@media (min-width: 901px) {
+  .container .content {
+    width: 900px;
+    margin: 0 auto;
+  }
+}
 /* Large devices (large desktops, 1200px and up) */
