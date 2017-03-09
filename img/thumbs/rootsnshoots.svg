@@ -92,9 +92,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="181.01934"
-     inkscape:cx="1.3061095"
-     inkscape:cy="78.944205"
+     inkscape:zoom="230.94339"
+     inkscape:cx="79.670654"
+     inkscape:cy="0.25370274"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -133,6 +133,16 @@
        height="21.176373"
        x="61.230579"
        y="244.83781" />
+    <image
+       sodipodi:absref="/home/thoth/git/gaianysus.github.io/img/thumbs/rootsnshootsbg.jpg"
+       y="244.83781"
+       x="61.230579"
+       id="image4560"
+       xlink:href="file:///home/thoth/git/gaianysus.github.io/img/thumbs/rootsnshootsbg.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="21.176376"
+       width="21.184582" />
   </g>
   <g
      inkscape:groupmode="layer"

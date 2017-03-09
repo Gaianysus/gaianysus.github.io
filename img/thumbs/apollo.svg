@@ -67,8 +67,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="6.7617088"
-     inkscape:cx="-78.773887"
-     inkscape:cy="42.344105"
+     inkscape:cx="32.0764"
+     inkscape:cy="38.928059"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -117,6 +117,16 @@
        height="21.166666"
        x="61.232143"
        y="244.83928" />
+    <image
+       sodipodi:absref="/home/thoth/git/gaianysus.github.io/img/thumbs/apollobg.jpg"
+       y="244.83928"
+       x="61.232143"
+       id="image4554"
+       xlink:href="file:///home/thoth/git/gaianysus.github.io/img/thumbs/apollobg.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="21.166666"
+       width="21.166666" />
   </g>
   <g
      inkscape:groupmode="layer"

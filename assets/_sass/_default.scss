@@ -696,6 +696,7 @@ table {
 
 .hidden-div {
   display: none;
+  color: $color-2;
 }
 
 .navbar-toggle {
@@ -704,8 +705,12 @@ table {
 }
 
 #themeEvent {
-  background: $bgcolor;
-  color: $color;
+  background: $bgcolor-2;
+  color: $color-2;
+}
+#themeEvent {
+  background: $bgcolor-2;
+  color: $color-2;
 }
 
 
