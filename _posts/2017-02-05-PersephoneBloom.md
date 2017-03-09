@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gaia
 title: Persephone Bloom
 published: true
 disqus: false

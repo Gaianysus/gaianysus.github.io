@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: gaia
 title: Apollo Booster 747
 published: true
 disqus: false
