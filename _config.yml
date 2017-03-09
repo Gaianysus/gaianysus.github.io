@@ -26,14 +26,14 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 #OPTIONAL
 #Non US-address support coming soon
 org_general_email_inbox: gaia@gaianysus.com
-org_street_address: 1105 West Oltorf #Please include suite number on the line below
-org_address_suite: Suite 301
-org_city: Austin
-org_state: TX
-org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
-  78704
+#org_street_address: #Please include suite number on the line below
+#org_address_suite: Suite 301
+#org_city: Austin
+#$org_state: TX
+#$org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
+#  87508
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (512) 441-5269
+  (844) 230-9688
 
 #SOCIAL MEDIA
 #github_username: gaianysus
