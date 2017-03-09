@@ -7,7 +7,7 @@ layout: default
 <section id="posts" class="posts section">
 </section>
 <div class="posts grid" >
-  <div class="content full-bleed" id="recent-posts">
+  <div class="content" id="recent-posts">
     {% for post in site.posts limit:50 %}<a
     href="{{ post.url }}" class="{% if post.photo_url %} photo{% endif %}">
       <div class="grid-item" data-price="{{ post.price }}" data-name="{{ post.title }}" data-type="{{ post.type }}" data-watts="{{ post.watts }}" {% if post.photo_url %} style="background-image:url('{{ post.photo_url }}')"{% else %} style="background-image:url('/img/default.jpg')" {% endif %}>

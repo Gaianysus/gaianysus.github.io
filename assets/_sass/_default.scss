@@ -117,7 +117,7 @@ pre code {
   padding: 10px 0;
   background: $bgcolor-2;
   color: $color;
-  position: relative;
+  position: fixed;
   width: 100%;
 }
 .header.navbar-fixed-top {
@@ -715,7 +715,7 @@ table {
 
 
 /* Extra small devices (phones, less than 768px) */
-@media (max-width: 767px) {
+@media (max-width: 799px) {
   .container .content {
     width: 100%;
     margin: 0 auto;
@@ -773,11 +773,35 @@ table {
   }
 }
 /* Small devices (tablets, 768px and up) */
+@media (min-width: 800px) {
+  .container {
+    width: 800px;
+    margin: 0 auto;
+  }
+  .content {
+    width: 750px;
+    margin: 0 auto;
+  }
+}
 /* Medium devices (desktops, 992px and up) */
-@media (min-width: 901px) {
-  .container .content {
+@media (min-width: 900px) {
+  .container {
+    width: 950px;
+    margin: 0 auto;
+  }
+  .content {
     width: 900px;
     margin: 0 auto;
   }
 }
 /* Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+    margin: 0 auto;
+  }
+  .content {
+    width: 1100px;
+    margin: 0 auto;
+  }
+}
