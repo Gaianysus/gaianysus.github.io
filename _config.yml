@@ -8,7 +8,8 @@ gems:
 
 name: "The Blog of Joshua Cox"
 description: "Where I blog about Jekyll, techronmancy, docker, and other usually linux related stuff"
-url: http://gaianysus.com
+url: https://gaianysus.com
+enforce_ssl: gaianysus.com
 author: Joshua Cox
 locale: eng-US
 
