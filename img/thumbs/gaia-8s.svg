@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="21.166666mm"
+   height="21.166666mm"
+   viewBox="0 0 21.166666 21.166666"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="gaia-8s.svg"
+   inkscape:export-filename="/mnt/unreal/git/gaianysus.github.io/img/thumbs/gaia-8s.png"
+   inkscape:export-xdpi="180"
+   inkscape:export-ydpi="180">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4577">
+      <stop
+         id="stop4575"
+         offset="0"
+         style="stop-color:#0032ff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ff00ff;stop-opacity:1"
+         offset="0.50690502"
+         id="stop4705" />
+      <stop
+         id="stop4573"
+         offset="1"
+         style="stop-color:#0000ff;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4577"
+       id="linearGradient4579"
+       x1="3.4096551"
+       y1="1.4130484"
+       x2="13.936702"
+       y2="4.0808249"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.5162994,0,0,2.5162993,-9.9313608,-2.2832936)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="6.7617088"
+     inkscape:cx="37.710875"
+     inkscape:cy="37.692103"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-61.232143,-244.83928)"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/thoth/git/assets-gaianysus/pics/LY-Noah led grow lights for indoor plants 1.jpg"
+       y="244.83928"
+       x="61.232143"
+       id="image738"
+       xlink:href="file:///home/thoth/git/assets-gaianysus/pics/LY-Noah%20led%20grow%20lights%20for%20indoor%20plants%201.jpg"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="21.166666"
+       width="21.166666" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text"
+     style="opacity:0.95">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:26.63083076px;line-height:16.64426994px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient4579);fill-opacity:1;stroke:#000080;stroke-width:0.25162992;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="0.51210207"
+       y="7.4639378"
+       id="text4571"
+       transform="scale(0.92234363,1.0841946)"><tspan
+         sodipodi:role="line"
+         id="tspan4569"
+         x="0.51210207"
+         y="7.4639378"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.10155535px;font-family:Impact;-inkscape-font-specification:Impact;fill:url(#linearGradient4579);fill-opacity:1;stroke:#000080;stroke-width:0.25162992;stroke-miterlimit:4;stroke-dasharray:none">Gaia-8s</tspan></text>
+  </g>
+</svg>
