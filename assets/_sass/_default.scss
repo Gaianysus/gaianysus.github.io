@@ -7,21 +7,24 @@
 */
 /* Default */
 /* ======= Colors ======= */
-$text-color: #a0e;
-$text-secondary: #51f;
+$text-color: #43f;
+$text-secondary: #54f;
 $grey: #999;
 $darker-grey: #666;
 $smoky-white: #f5f5f5;
 $divider: #0000ef;
 $heart: #ff765a;
+$gradient-end: #aaf;
+$gradient-start: #faf;
+$shadow: rgba(232, 232, 255, 0.6);
 
 /* ======= Base ======= */
 html {
-  background: $text-secondary; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, $text-secondary , $text-color); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(right, $text-secondary, $text-color); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(right, $text-secondary, $text-color); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to right, $text-secondary , $text-color); /* Standard syntax */
+  background: $gradient-start; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, $gradient-start , $gradient-end); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, $gradient-start, $gradient-end); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, $gradient-start, $gradient-end); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, $gradient-start , $gradient-end); /* Standard syntax */
   background-clip: border-box !important;
   background-origin: padding-box !important;
   background-repeat: repeat !important;
@@ -684,7 +687,7 @@ th, td, table {
 html{
   color: $color-2;
   text-shadow:
-  1px 1px 2px $bgcolor-2,
+  1px 1px 2px $shadow,
   0 0 0.1em $bgcolor;
 }
 img {
