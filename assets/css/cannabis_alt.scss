@@ -13,12 +13,12 @@
   $bgcolor: #000;
   $bgcolor-2: #333;
 {% elsif site.mytheme == "gaianysus" %}
-  $color: black;
-  $color-2: black;
-  $linkcolor: #2222ff;
-  $bgcolor: white;
-  $bgcolor-2: white;
-  $bgcolor-3: white;
+  $color: #6a00ff;
+  $color-2: #de00fe;
+  $linkcolor: #ff00ff;
+  $bgcolor: rgba(42, 2, 42, 0.9);
+  $bgcolor-2: rgba(42, 2, 42, 0.7);
+  $bgcolor-3: rgba(230, 4, 164, 1);
 {% else %}
   $color: #6690b9;
   $color-2: #dd9d71;
@@ -28,7 +28,7 @@
 // Import partials from `_sass` folder
 //
 
-@import "print";
+@import "alt";
 
 //
 // Insert custom css below this line

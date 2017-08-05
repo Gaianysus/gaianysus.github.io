@@ -15,9 +15,10 @@
 {% elsif site.mytheme == "gaianysus" %}
   $color: #6a00ff;
   $color-2: #de00fe;
+  $color-3: #8e00ff;
   $linkcolor: #ff00ff;
-  $bgcolor: rgba(42, 2, 42, 0.9);
-  $bgcolor-2: rgba(42, 2, 42, 0.7);
+  $bgcolor: rgba(82, 82, 255, 0.6);
+  $bgcolor-2: rgba(83, 82, 255, 0.3);
   $bgcolor-3: rgba(230, 4, 164, 1);
 {% else %}
   $color: #6690b9;
@@ -28,7 +29,7 @@
 // Import partials from `_sass` folder
 //
 
-@import "alt";
+@import "default";
 
 //
 // Insert custom css below this line
