@@ -8,10 +8,10 @@ Protecting your private information is our priority. This Statement of Privacy a
 Collection of your Personal Information 
 Gaianysus may collect personally identifiable information, such as your: 
 
- -	Name 
- -	Address 
- -	E-mail Address 
- -	Phone Number 
+*	Name
+*	Address
+*	E-mail Address 
+*	Phone Number 
 
 If you purchase Gaianysus's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. 
 
