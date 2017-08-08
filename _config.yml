@@ -6,11 +6,11 @@ gems:
   - jekyll-redirect-from
   - jekyll-feed
 
-name: "The Blog of Joshua Cox"
-description: "Where I blog about Jekyll, techronmancy, docker, and other usually linux related stuff"
+name: "The Blog of Gaianysus"
+description: "Superior grow gear for growers by growers"
 url: https://gaianysus.com
 enforce_ssl: gaianysus.com
-author: Joshua Cox
+author: Gaianysus
 locale: eng-US
 
 disqus_id: gaianysusgithubio
@@ -26,7 +26,7 @@ org_full_description: > # Enter your description on the next line. Be sure to in
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: gaia@gaianysus.com
+org_general_email_inbox: zeus@gaianysus.com
 #org_street_address: #Please include suite number on the line below
 #org_address_suite: Suite 301
 #org_city: Austin
@@ -58,7 +58,7 @@ tinyletter_username: gaianysus
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: false
+publish: true
 
 #THEME
 mytheme: gaianysus
