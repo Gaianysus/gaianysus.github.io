@@ -1,60 +1,34 @@
 ---
 layout: page
-title: Gaianysus Privacy Policy
+title: Privacy Policy
 ---
-
-
-
-
 
 Protecting your private information is our priority. This Statement of Privacy applies to http://gaianysus.com and Gaianysus and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Gaianysus include http://gaianysus.com, Gaianysus, Gaianysus Shop, https://shop.gaianysus.com/ and https://www.gaianysus.com/. The Gaianysus website is a ecommerce site. By using the Gaianysus website, you consent to the data practices described in this statement. 
 
-
-
 Collection of your Personal Information 
 Gaianysus may collect personally identifiable information, such as your: 
-
-
 
  -	Name 
  -	Address 
  -	E-mail Address 
  -	Phone Number 
 
-
-
 If you purchase Gaianysus's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. 
-
-
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Gaianysus's public message boards, this information may be collected and used by others. 
 
-
-
 Gaianysus encourages you to review the privacy statements of websites you choose to link to from Gaianysus so that you can understand how those websites collect, use and share your information. Gaianysus is not responsible for the privacy statements or other content on websites outside of the Gaianysus website. 
-
-
 
 Use of your Personal Information 
 Gaianysus collects and uses your personal information to operate its website(s) and deliver the services you have requested. 
 
-
-
 Gaianysus may also use your personally identifiable information to inform you of other products or services available from Gaianysus and its affiliates. Gaianysus may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
-
-
 
 Gaianysus does not sell, rent or lease its customer lists to third parties. 
 
-
-
 Gaianysus may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Gaianysus, and they are required to maintain the confidentiality of your information. 
 
-
-
 Gaianysus may keep track of the websites and pages our users visit within Gaianysus, in order to determine what Gaianysus services are the most popular. This data is used to deliver customized content and advertising within Gaianysus to customers whose behavior indicates that they are interested in a particular subject area. 
-
-
 
 Gaianysus will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Gaianysus or the site; (b) protect and defend the rights or property of Gaianysus; and, (c) act under exigent circumstances to protect the personal safety of users of Gaianysus, or the public. 
 
