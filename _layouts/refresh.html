@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+
+<meta http-equiv="refresh" content="0;URL='https://shop.gaianysus.com/'" />
+  {% include head.html %}
+
+  <body data-spy="scroll">
+
+  {% include facebook-init.html %}
+
+  {% include header.html %}
+
+  {% include promo.html %}
+
+  <div class= container>
+    {{ content }}
+  </div>
+
+  {% include socialicons.html %}
+
+    {% include footer.html %}
+
+    {% include scripts.html %}
+
+    {% include googleanalytics.html %}
+
+    <script>for (var k in window.initFuncs) { window.initFuncs[k](); } delete window.initFuncs;</script>
+  </body>
+
+</html>
